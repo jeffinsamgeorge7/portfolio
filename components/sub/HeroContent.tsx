@@ -11,6 +11,7 @@ import { SparklesIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const HeroContent = () => {
+  //hero content
   return (
     <motion.div
       initial="hidden"
@@ -37,7 +38,7 @@ const HeroContent = () => {
               Jeffin Sam George{" "}
             </span>
         </motion.div>
-
+          
         <motion.p
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"

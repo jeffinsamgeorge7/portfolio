@@ -12,7 +12,7 @@ const Education = () => {
       </h1>
       <div className="h-full w-full flex flex-col justify-center align-middle md:flex-col md:w-1/2   gap-10 px-10">
       <Educart 
-           src="/saintgits.png"
+           src="./saintgits.png"
           name="Saintgits College of Engineering, Kottayam"
           title="Master of Computer Applications"
           year="2022-2024"
@@ -22,7 +22,7 @@ const Education = () => {
         />
        
         <Educart
-         src="/stc.png"
+         src="./stc.png"
           name="St Thomas College, Konni Pathanamthitta"
           title="Bachelor of Computer Applications"
           year="2018-2021"

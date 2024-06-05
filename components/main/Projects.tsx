@@ -12,23 +12,23 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/AstroLense.png"
+          src="./AstroLense.png"
           title="Astro Lense"
           description="Astro Lense is an innovative web application developed using the powerful combination of React and Django. This project aims to create a comprehensive platform for the exploration and understanding of astronomical data."
         />
         <ProjectCard
-          src="/Blind.png"
+          src="./Blind.png"
           title="Blind Helper"
           description=" Blind Helper is an innovative  mobile application based on Kotlin and Tenserflow lite.It was developed to help blind people finding near by objects. Data set contain 40 types of objects of the Machine Learning process."
         />
         <ProjectCard
-          src="/wwise.png"
+          src="./wwise.png"
           title="Weather wisse"
           description="Weather wise is an IoT based web application developed using the powerful combination of React and Flask. This project aims to create a comprehensive platform for the exploration and understanding of weather data"
         />
 
 <ProjectCard
-          src="/budget.png"
+          src="./budget.png"
           title="Budget Monitoring System "
           description="Budget Monitoring Systemis an innovative web application developed using  Django. This project aims to create a comprehensive platform for the exploration and understanding of financial informations and budget managment."
         />

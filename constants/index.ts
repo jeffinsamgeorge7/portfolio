@@ -31,7 +31,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Vite",
-      Image: "./vite.svg",
+      Image: "./vite.png",
       width: 80,
       height: 80,
     },

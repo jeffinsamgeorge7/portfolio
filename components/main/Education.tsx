@@ -18,7 +18,7 @@ const Education = () => {
           year="2022-2024"
           grade="7.2 CGPA"
           description="I am currently pursuing a Masters's degree in Computer Science at Saintgits College of Engineering, Kottayam. 
-          I have completed 3 semesters and have a CGPA of 8.71."
+          I have a CGPA of 7.2."
         />
        
         <Educart

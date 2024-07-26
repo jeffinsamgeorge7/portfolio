@@ -16,7 +16,7 @@ const Education = () => {
           name="Saintgits College of Engineering, Kottayam"
           title="Master of Computer Applications"
           year="2022-2024"
-          grade="6.0 CGPA"
+          grade="7.2 CGPA"
           description="I am currently pursuing a Masters's degree in Computer Science at Saintgits College of Engineering, Kottayam. 
           I have completed 3 semesters and have a CGPA of 8.71."
         />
@@ -26,7 +26,7 @@ const Education = () => {
           name="St Thomas College, Konni Pathanamthitta"
           title="Bachelor of Computer Applications"
           year="2018-2021"
-          grade="7.1 CGPA"
+          grade="6.0 CGPA"
           description="I completed my UG at St Thomas College , Konni Pathanamthitta, where I studied Bachelor of Computer Applications and have a CGPA of 6.0."
        
        

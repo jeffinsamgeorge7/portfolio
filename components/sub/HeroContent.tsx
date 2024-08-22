@@ -47,7 +47,7 @@ const HeroContent = () => {
           I&apos;m a Full Stack Software Engineer with experience in Website,
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
-        <Link href="https://drive.google.com/file/d/1HQnGJTwzLY_Pvb76WS_Rgw_ce78WfcED/view">
+        <Link href="https://drive.google.com/file/d/1GpMD_AOeLMklNe9Z_5CprFdxJ2GBiZA8/view">
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
